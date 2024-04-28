@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Overview",
       "pages": [
         "introduction",
         "quickstart",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Writing",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -81,7 +81,18 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+     {
+      "group": "Getting Started",
+      "pages": [
+            "quickstart",
+            {
+                "group": "Nested Reference Pages",
+                "pages": ["nested-reference-page"]
+            }
+        ]
     }
+
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
