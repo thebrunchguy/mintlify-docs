@@ -60,14 +60,10 @@
     {
       "group": "Writing",
       "pages": [
-            "quickstart",
-            {
-                "pages": [
-                  "page 1",
-                  "page 2"
-                ]
-            }
-        ]
+        "Blog 1",
+        "Blog 2",
+        "Blog 3"
+      ]
     },
     {
       "group": "API Documentation",
@@ -82,18 +78,6 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    },
-     {
-      "group": "Getting Started",
-      "pages": [
-            "quickstart",
-            {
-                "pages": [
-                  "page 1",
-                  "page 2"
-                ]
-            }
-        ]
     }
 
   ],
