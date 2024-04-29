@@ -60,15 +60,15 @@
     {
       "group": "Writing",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
+            "quickstart",
+            {
+                "pages": [
+                  "page 1",
+                  "page 2"
+                ]
+            }
+        ]
     },
-    
     {
       "group": "API Documentation",
       "pages": [
@@ -82,7 +82,20 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+     {
+      "group": "Getting Started",
+      "pages": [
+            "quickstart",
+            {
+                "pages": [
+                  "page 1",
+                  "page 2"
+                ]
+            }
+        ]
     }
+
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
