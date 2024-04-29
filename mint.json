@@ -68,6 +68,7 @@
         "essentials/reusable-snippets"
       ]
     },
+    
     {
       "group": "API Documentation",
       "pages": [
@@ -81,20 +82,7 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    },
-     {
-      "group": "Getting Started",
-      "pages": [
-            "quickstart",
-            {
-                "pages": [
-                  "page 1",
-                  "page 2"
-                ]
-            }
-        ]
     }
-
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
