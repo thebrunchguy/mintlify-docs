@@ -87,8 +87,10 @@
       "pages": [
             "quickstart",
             {
-                "group": "Nested Reference Pages",
-                "pages": ["nested-reference-page"]
+                "pages": [
+                  "page 1",
+                  "page 2"
+                ]
             }
         ]
     }
